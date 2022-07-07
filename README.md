@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rogeralencar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rogeralencar/rogeralencar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Seja bem-vindo ao meu GitHub.
+### Meu nome é Roger Alencar, sou técnico em informática e estudante de Ciência da Computação.
+- ✨ Gosto de back-end e já tive experiências acadêmicas com PHP e Java/Spring Boot.
+- 🌟 Pretendo aprimorar meus conhecimentos em C e no futuro, estudar Rust.
+- 🎈 Estou sempre disposto a aprender novas tecnologias.
